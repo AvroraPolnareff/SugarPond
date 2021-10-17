@@ -6,7 +6,8 @@
     "paths": {
       "features/*": ["./features/*"],
       "screens/*": ["./screens/*"],
-      "ui": ["./features/ui/"]
+      "ui": ["./features/ui/"],
+      "mocks": ["./mocks/"]
     }
   }
 }

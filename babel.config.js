@@ -11,8 +11,9 @@ module.exports = function(api) {
             features: './features',
             screens: './screens',
             ui: './features/ui',
+            mocks: './mocks'
           },
-          extensions: ['.js', '.ts', '.jsx', '.tsx'],
+          extensions: ['.js', '.ts', '.jsx', '.tsx', '.json'],
         },
       ],
     ],
